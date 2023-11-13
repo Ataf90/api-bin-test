@@ -117,16 +117,16 @@ document.querySelector("#supprimer").addEventListener("click",function (event){
     });
 })
 
-let urlRecherche;// url+change
-let result;
-let adressChoix= "";
+// let urlRecherche;// url+change
+// let result;
+// let adressChoix= "";
 
-    let urlApi = `https://api-adresse.data.gouv.fr/search/?q=` ;
-    async function apiadress;
-    const apiAdress = async () => {
-        const res = await fetch(urlRecherche);
-        result = await res.json();
-        console.log("result : ", result);
-    }
+//     let urlApi = `https://api-adresse.data.gouv.fr/search/?q=` ;
+//     async function apiadress;
+//     const apiAdress = async () => {
+//         const res = await fetch(urlRecherche);
+//         result = await res.json();
+//         console.log("result : ", result);
+//     }
 
 
