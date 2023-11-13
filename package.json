@@ -1,0 +1,23 @@
+{
+  "name": "api-bin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ataf90/api-bin-test.git"
+  },
+  "author": "Ataf Georges ELEID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ataf90/api-bin-test/issues"
+  },
+  "homepage": "https://github.com/Ataf90/api-bin-test#readme",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "sass": "^1.69.5"
+  }
+}
